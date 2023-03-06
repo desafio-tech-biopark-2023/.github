@@ -38,6 +38,29 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Antes de começar, você vai precisar ter instalado o [Git](https://git-scm.com) em sua máquina. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
+### 🧭 Rodando a API localmente na sua máquina (Back End)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/desafio-tech-biopark-2023/back-end.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd back-end
+
+# Instale as dependências
+$ yarn
+
+# Crie um banco de dados PostgreSQL em sua máquina com o nome de sua preferência
+
+# Na pasta do projeto modifique o arquivo .env.example, insira as informações solicitadas e salve o arquivo
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+
 ### 🧭 Rodando a aplicação web localmente na sua máquina (Front End)
 
 ```bash
