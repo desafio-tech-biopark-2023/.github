@@ -1,3 +1,69 @@
 
 ## Desafio Tech - Biopark 2023
 
+## 🔭 Acesse o Deploy do Projeto Aqui: [Desafio Tech]()
+
+## 💻 Sobre o projeto
+
+Esse desafio teve como proposta desenvolver um sistema para facilitar a gestao dos apartamentos entregues no ecossistema Biopark.
+
+O sistema foi baseado nos requisitos e premissas apresentadas pelos criadores do desafio.
+
+
+- O sistema permite cadastrar edifícios e apartamentos
+- O sistema permite visualizar a disponibilidade dos apartamentos
+- É possível alugar um apartamento para um locatário
+- É possível visualizar o locatário do apartamento
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [ReactJS]()
+- [NodeJS]()
+- [Typescript]()
+- [Express]()
+- [PostgreSQL]()
+- [Vercel]()
+- [Git]()
+- [Github]()
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado o [Git](https://git-scm.com) em sua máquina. 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+
+### 🧭 Rodando a aplicação web localmente na sua máquina (Front End)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/desafio-tech-biopark-2023/front-end.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd front-end
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+## 😯 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+
+## 📝 Licença
+
+Este projeto esta sob a licença MIT.
+
+Feito com ❤️ por Patrick Cordeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/patrickcordeiro/)
