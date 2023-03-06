@@ -1,19 +1,21 @@
 
 ## Desafio Tech - Biopark 2023
 
-## 🔭 Acesse o Deploy do Projeto Aqui: [Desafio Tech]()
-
 ## 💻 Sobre o projeto
 
 Esse desafio teve como proposta desenvolver um sistema para facilitar a gestao dos apartamentos entregues no ecossistema Biopark.
 
 O sistema foi baseado nos requisitos e premissas apresentadas pelos criadores do desafio.
 
-
 - O sistema permite cadastrar edifícios e apartamentos
 - O sistema permite visualizar a disponibilidade dos apartamentos
 - É possível alugar um apartamento para um locatário
 - É possível visualizar o locatário do apartamento
+
+Foram adicionados os seguintes extras:
+
+- É possível se cadastrar como pessoa física e jurídica em ambos os casos(Locador ou Locatário) 
+- Visualização de dados sobre os alugueis como valor, pessoa que alugou, prazo de início e termino de contrato e o apartamento alugado.
 
 
 ## 🛠 Tecnologias
